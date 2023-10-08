@@ -1,0 +1,17 @@
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;Document&lt;/title&gt;
+&lt;/head&gt;
+&lt;p&gt;&copy; The Web Is My Canvas &lt;/p&gt;
+&lt;q&gt;Hello everyone&lt;/q&gt;
+
+&lt;bdo dir="rtl"&gt;Yogesh&lt;/bdo&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&lt;pre&gt;&lt;code&gt;
+    #include &lt;stdio.h&gt;
+        this is my code
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/body&gt;
+&lt;/html&gt;
