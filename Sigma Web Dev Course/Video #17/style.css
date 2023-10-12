@@ -16,7 +16,18 @@ background-color: green;
 
 /* Child selector */
 
-div > p{
+div  > p{
     color: blue;
     background-color: brown;
+} 
+
+/* Descendant selector */
+div p {
+    color: yellow;
+    background-color: brown;
+}
+
+*{
+    margin: 0;
+    padding: 0;
 }
