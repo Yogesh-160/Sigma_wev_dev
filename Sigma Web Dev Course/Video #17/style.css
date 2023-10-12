@@ -1,0 +1,22 @@
+
+/* Element selector */
+/* div{
+    background-color: red;
+} */
+
+/* Class selector */
+.red
+{
+    background-color: red;
+}
+
+#green{
+background-color: green;
+}
+
+/* Child selector */
+
+div > p{
+    color: blue;
+    background-color: brown;
+}
